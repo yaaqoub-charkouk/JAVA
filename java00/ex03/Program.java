@@ -16,8 +16,8 @@ public class Program {
             }
             
             if (!sc.hasNextInt()) {
-                    System.err.println("IllegalArgument");
-                    System.exit(-1);
+                System.err.println("IllegalArgument");
+                System.exit(-1);
             }
             int weekNum = sc.nextInt();
             if (weekNum != expectedWeek) {
