@@ -1,7 +1,4 @@
 
-
-
-
 class Etudiant {
     String  nom;
     int     age;
@@ -31,6 +28,8 @@ public class tp7 {
 
         etu.afficherDetails();
         System.out.println(etu.estAdmis());
+
+        System.out.println();
 
         ishaq.afficherDetails();
         System.out.println(ishaq.estAdmis());
