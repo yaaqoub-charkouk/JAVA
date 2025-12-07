@@ -44,5 +44,6 @@ public class Program {
             expectedWeek++;
         }
         System.out.println(output);
+        sc.close();
     }
 }

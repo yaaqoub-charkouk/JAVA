@@ -24,8 +24,6 @@ public class tp6 {
 
 
     static double[] sasieNotes(Scanner sc, int nbNotes) {
-        
-
         double notes[];
         notes = new double[nbNotes];
         for (int i = 0; i < nbNotes; i++) {
